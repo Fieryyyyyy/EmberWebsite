@@ -1,21 +1,21 @@
-#To Do:
+# To Do:
 
-##Home Page
+## Home Page
 
 fix cat footer
 Update My Story
 
-##About Page
+## About Page
 Update My Story
 Update my skills to be realistic
 Updated Timeline to be realistic
 
-##Contact
+## Contact
 Update contact info
 
 # References
 
-##BootStrap
+## BootStrap
 
 ### Bootstrap FAQ
 https://getbootstrap.com/docs/5.3/components/accordion/
@@ -25,7 +25,7 @@ Contributors, M. O. J. T. a. B. (n.d.). Accordion. https://getbootstrap.com/docs
 ### Bootstrap Cheat sheet
 https://getbootstrap.com/docs/5.0/examples/cheatsheet/
 
-Contributors, M. O. J. T. a. B. (n.d.-b). Cheatsheet · Bootstrap v5.0. https://getbootstrap.com/docs/5.0/examples/cheatsheet/
+Contributors, M. O. J. T. a. B. (n.d.-b). Cheatsheet Â· Bootstrap v5.0. https://getbootstrap.com/docs/5.0/examples/cheatsheet/
 
 ## CodePen
 
